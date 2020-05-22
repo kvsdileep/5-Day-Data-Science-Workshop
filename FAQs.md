@@ -26,13 +26,25 @@ What if I need to speak with someone?
 What is covered in “Python for Data Science Bundle”?
 - [Here](https://bit.ly/2AGiHom)
 
-Where will the sessions be conducted?
-- Zoom - We will notify if there is any change
-
 When will we receive the invites?
 - On the day of the session
 
 What if I miss the session?
 - Don't miss it 
+
+Do I need to know anything about data science to get started on GreyAtom?
+- Nope! Anyone interested in data science and analytics can register to learn new skills. Even if you are fresh out of college OR have never coded.
+
+How will we cover 6 sprints in 5 days?
+- There will be code-along session of 90 mins everyday for 5 days. We will build a project in those 90 mins everyday. The sprints are reading material which will be given to you to consume on your own. You can prepare for the session with these sprint concepts.
+
+How will the sessions be conducted?
+- The sessions will be conducted online using a streaming service like zoom. You will receive daily reminders on email, sms and telegram group to join the session.
+
+When will the sessions start?
+- Sessions will be conducted from every Wednesday. Wednesday, Thursday, Friday, Monday and Tuesday from 7:00 PM to 8:30 PM.
+
+[Image](http://workshop.greyatom.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-22-at-4.48.17-PM-800x133.jpeg)
+
 
 If you have any questions, write back to me at mayuresh.shilotri(at)greyatom.com. I look forward to seeing you at the workshop. 
