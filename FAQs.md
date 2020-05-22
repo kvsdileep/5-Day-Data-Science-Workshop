@@ -1,14 +1,10 @@
-Where will the sessions be conducted?
-- Zoom - We will notify if there is any change
+Thanks for registering for GreyAtom’s 5-Day Data Science Workshop.
 
-When will we receive the invites?
-- On the day of the session
+We are really excited to be your learning partners on your data science journey. GreyAtom takes a hands-on approach to learning. Make sure you attend all the sessions with some of the most amazing data science professionals around the world. 
 
-What if I miss the session?
-- Don't miss it 
+Let’s get you all plugged into the GreyAtom Ecosystem.
 
-What is the curriculum?
-- [Here]()
+Follow along and complete the below steps:
 
 Where is the Telegram Group? 
 - [Join here](https://t.me/joinchat/KgseahxW6EytDNJrVqkD4w)
@@ -29,3 +25,14 @@ What if I need to speak with someone?
 
 What is covered in “Python for Data Science Bundle”?
 - [Here](https://bit.ly/2AGiHom)
+
+Where will the sessions be conducted?
+- Zoom - We will notify if there is any change
+
+When will we receive the invites?
+- On the day of the session
+
+What if I miss the session?
+- Don't miss it 
+
+If you have any questions, write back to me at mayuresh.shilotri(at)greyatom.com. I look forward to seeing you at the workshop. 
