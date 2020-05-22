@@ -3,7 +3,7 @@ For everything about 5 Day Data Science Workshop by GreyAtom
 
 ![Image of Yaktocat](http://workshop.greyatom.com/wp-content/uploads/2020/05/1-600x957.png)
 
-####Get Started with **Data Science**
+###Get Started with **Data Science**
 
 **7.5** hours of mentor training
 
