@@ -44,7 +44,7 @@ How will the sessions be conducted?
 When will the sessions start?
 - Sessions will be conducted from every Wednesday. Wednesday, Thursday, Friday, Monday and Tuesday from 7:00 PM to 8:30 PM.
 
-[Image](http://workshop.greyatom.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-22-at-4.48.17-PM-800x133.jpeg)
+![Image](http://workshop.greyatom.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-22-at-4.48.17-PM-800x133.jpeg)
 
 
 If you have any questions, write back to me at mayuresh.shilotri(at)greyatom.com. I look forward to seeing you at the workshop. 
